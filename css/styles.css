@@ -754,8 +754,7 @@ background-position: center;
 }
 
 .footer-subscribe{
-    margin-left: 80px;
-    
+    display: flex;
 }
 
 .footer-email {
@@ -808,3 +807,5 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #FFFFFF;
 }
+
+.footer-form {margin-left: 80px;}
